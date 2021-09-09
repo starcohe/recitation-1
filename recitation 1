@@ -1,0 +1,10 @@
+
+pointsobtained=3
+totalpoints=4
+
+
+percentage=(pointsobtained/totalpoints)*100
+print(percentage)
+
+abcdef="I am a UB Studen8"
+print(abcdef[-2])
